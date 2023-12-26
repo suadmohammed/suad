@@ -1,0 +1,86 @@
+body {
+margin: 0;
+}
+/*p {
+  /*smargin: 5px;*/
+/*color: aqua;*/
+/*taxt align:justify ;*/
+/*text-align-last:center;*/
+/*text-decoration:line- over;*/
+/*text-decoration-color: red;*/
+ /*text-decoration:  underline;*/
+/*color:red;*/
+/*text-decoration-color:blue;*/
+/*text-decoration-style:wavy;*/
+/*text-indent:30px;
+letter-spacing:4px;
+line-height: 20px;
+/*direction:rtl*/
+/*word-spacing: 15px;*/s
+/*text-shadow: 3px 5px 3px red;*/
+/*white-space: noraml;*/
+
+  /*font-family:Gondess Script Font;*/
+ /* Gondess Script Font
+  Gondess Script Font*/
+/*font-family:consola;*/
+/*font-style: obique ;
+font-weight: lighter;}
+
+a {
+
+color: blueviolet;
+text-decoration: none;
+}
+
+a:link {
+color:red;
+
+}
+
+a:visited{
+
+color: blue;  
+}
+a:hover{
+  color: darkgreen;
+}
+
+a:active{
+  color: black;
+}
+ul{*/
+ /* list-style-type: georgian;
+  list-style-image: url(../images/IMG-20230223-WA0016.jpg);*/
+  /*border: 1px solid blue;
+list-style-position: inside;
+list-style: armenian inside url(../images/IMG-20230223-WA0016.jpg);*/
+
+
+table{
+margin: 15px;
+border-collapse: collapse;
+border-spacing: 3px;
+width: 50%;
+height: 120px;
+}
+
+    table,th,td,tr{
+  border: 2px solid rebeccapurple;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
